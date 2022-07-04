@@ -1,2 +1,2 @@
-# InifiniteRunner_Game
-An infinite runner game of an astronaut in space.
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
